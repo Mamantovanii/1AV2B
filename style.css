@@ -2,7 +2,7 @@ h2{
     text-align: center;
     font-size: 100px;
     color: azure;
-
+font-style: ;
 }
 body{
     background-image: url("gisele.jpeg");
@@ -19,11 +19,4 @@ body{
     padding: 10px 20px;
     display: inline-block;
     cursor: pointer;
-}
-li{
-    color: aliceblue;
-}
-.vogue{
-
-    
 }
