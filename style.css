@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+    font-size: 100px;
+    color: azure;
+
+}
+body{
+    background-image: url("gisele.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.botao{
+    background-color: rgb(255, 250, 250);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px;
+    display: inline-block;
+    cursor: pointer;
+}
+li{
+    color: aliceblue;
+}
+.vogue{
+
+    
+}
