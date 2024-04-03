@@ -25,7 +25,7 @@ body{
   text-align: center;
     text-decoration-color: rgb(0, 0, 0);
     height: 50px;
-    position: top; 
+    margin-top: 0%;
 }
 .horizontal-list {
     list-style-type: none;
