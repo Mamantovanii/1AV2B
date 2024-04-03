@@ -35,3 +35,6 @@ body{
     display: inline-block;
     margin-right: 200px; /*200px*/
 }
+.site-header {
+    height: 50px; /*50px*/
+}
